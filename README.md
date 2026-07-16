@@ -67,9 +67,10 @@
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/Mckenzie347/count.svg">
+<img src="https://profile-counter.glitch.me/Mckenzie347/count.svg" alt="Visit Counter">
 
 </div>
+
 
 <!-- Profile README -->
 

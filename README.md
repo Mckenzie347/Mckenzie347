@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Mckenzie_XBT/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mckenzie347)
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Karditohir/)
 
 </div>
 
@@ -41,15 +41,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mckenzie347&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mckenzie347&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mckenzie347&theme=dark&hide_border=false" alt="GitHub Streak">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mckenzie347&theme=dark&hide_border=false&layout=compact">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mckenzie347&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
+<img src="https://streak-stats.demolab.com/?user=Mckenzie347&theme=dark&hide_border=false">
 
 </div>
 

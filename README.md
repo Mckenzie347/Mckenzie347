@@ -67,7 +67,8 @@
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/Mckenzie347/count.svg" alt="Visit Counter">
+<img src="https://komarev.com/ghpvc/?username=Mckenzie347&style=for-the-badge&color=blueviolet" alt="Visit Counter">
+
 
 </div>
 
